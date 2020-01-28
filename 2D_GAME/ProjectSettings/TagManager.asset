@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - GunProjectile
+  - Wall
+  - Spawner
+  - Door_Stop
+  - Door
+  - Ground
+  - Trap
+  - Camera_border
+  - Patrol_Trigger
+  - HealthController
+  - Bullet
+  - Soundtrack_Toggle
+  - Button_Play
+  - Boss
+  - Border
+  - Enemy_Bullet
+  - Moving_Blocks
+  - Player_Box
+  - World_Decor
+  - ObjectToFollow
+  - canPlace
+  - InfoBar
+  - Backpack
+  - ProgressBar
+  - Woodamount
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - World
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 1089546229
+    locked: 0

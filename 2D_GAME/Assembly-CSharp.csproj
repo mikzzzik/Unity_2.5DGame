@@ -70,6 +70,8 @@
     <Compile Include="Assets\2.5D\Scripts\DoorController.cs" />
     <Compile Include="Assets\2.5D\Scripts\EscapeMenu2D.cs" />
     <Compile Include="Assets\2.5D\Scripts\Health_Controller.cs" />
+    <Compile Include="Assets\2.5D\Scripts\NPC_Gray_Dialog.cs" />
+    <Compile Include="Assets\2.5D\Scripts\NPCMove.cs" />
     <Compile Include="Assets\2.5D\Scripts\Object_Follow_Mouse.cs" />
     <Compile Include="Assets\2.5D\Scripts\PlayerMove2D.cs" />
     <Compile Include="Assets\2.5D\Scripts\PlayerWeapon2D.cs" />
@@ -109,7 +111,6 @@
     <Compile Include="Assets\MyGames\Script\TextUpdate.cs" />
     <Compile Include="Assets\MyGames\Script\UnblockController.cs" />
     <Compile Include="Assets\MyGames\Script\Weapon.cs" />
-    <Compile Include="Assets\NPCMove.cs" />
     <Compile Include="Assets\Platformer\Scripts\Damage.cs" />
     <Compile Include="Assets\Platformer\Scripts\DeadByTouch.cs" />
     <Compile Include="Assets\Platformer\Scripts\EnemyPig.cs" />
@@ -129,37 +130,37 @@
     <Compile Include="Assets\Platformer\Scripts\TilemapGenerator.cs" />
     <Compile Include="Assets\Platformer\Scripts\TileMapRender.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Unity_3D_GAME/2D_GAME/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/mikzz/Documents/GitHub/Unity_2.5DGame/2D_GAME/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/2019.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

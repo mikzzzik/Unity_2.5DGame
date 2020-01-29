@@ -73,19 +73,12 @@ public class EscapeMenu2D : MonoBehaviour
     public void Pause()
     {
         PauseMenuUI.SetActive(true);
-/*        for (var i = 0; i < _autoopen.Length ; i++){
-            _autoopen[i].SetActive(true);
-        }*/
         Time.timeScale = 0.0000000000001f;
         GameIsPaused = true;
     }
     public void Resume()
     {
         PauseMenuUI.SetActive(false);
-        /*        for (var i = 0; i < _autoopen.Length; i++)
-                {
-                    _autoopen[i].SetActive(false);
-                }*/
         Time.timeScale = 1f;
         GameIsPaused = false;
     }

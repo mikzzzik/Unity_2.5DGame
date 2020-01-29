@@ -26,7 +26,6 @@ public class PlayerMove2D : MonoBehaviour
 
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-//        Debug.Log(movement);
         
     }
     private void FixedUpdate()
@@ -91,8 +90,7 @@ public class PlayerMove2D : MonoBehaviour
             m_Animator.SetBool("RunDownSide", false);
             cooldown -= Time.deltaTime;
            // if (cooldown < 0)
-           // {
-           //     CanMove = true;
+           // ;
            // }
         }
         

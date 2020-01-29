@@ -22,7 +22,6 @@ public class NPCMove : MonoBehaviour
         _mAnim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (_canmove)
